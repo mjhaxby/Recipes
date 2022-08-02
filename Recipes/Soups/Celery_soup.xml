@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+ <name>Celery soup</name>
+ <subname>Cook up a batch of fresh, low-calorie celery soup for a healthy and filling veggie lunch or supper. Serve with chunks of crusty bread.</subname>
+ <servings>4</servings>
+ <prepTime icon="prep.png">00:15</prepTime>
+ <cookTime icon="cook.png">00:40</cookTime>
+ <restTime></restTime>
+ <coolTime></coolTime>
+ <notes></notes>
+ <attribution>https://www.bbcgoodfood.com/recipes/celery-soup</attribution>
+ <listIngredients>
+  <ingredient_item id="0">
+   <quantity>2</quantity>
+   <unit>tbsp</unit>
+   <ingredient>olive oil</ingredient>
+  </ingredient_item>
+  <ingredient_item id="1">
+   <quantity>300</quantity>
+   <unit>g</unit>
+   <ingredient>celery, sliced, with tough strings removed</ingredient>
+  </ingredient_item>
+  <ingredient_item id="2">
+   <quantity>1</quantity>
+   <unit>garlic</unit>
+   <ingredient>clove, peeled</ingredient>
+  </ingredient_item>
+  <ingredient_item id="3">
+   <quantity>200</quantity>
+   <unit>g</unit>
+   <ingredient>potatoes, peeled and cut into chunks</ingredient>
+  </ingredient_item>
+  <ingredient_item id="4">
+   <quantity>500</quantity>
+   <unit>ml</unit>
+   <ingredient>vegetable stock</ingredient>
+  </ingredient_item>
+  <ingredient_item id="5">
+   <quantity>100</quantity>
+   <unit>ml</unit>
+   <ingredient>milk</ingredient>
+  </ingredient_item>
+  <ingredient_item id="6">
+   <quantity></quantity>
+   <unit></unit>
+   <ingredient>crusty bread, to serve</ingredient>
+  </ingredient_item>
+ </listIngredients>
+ <listInstructions>
+  <instruction id="0">Heat the oil in a large saucepan over a medium heat, tip in the celery, garlic and potatoes and coat in the oil. Add a splash of water and a big pinch of salt and cook, stirring regularly for 15 mins, adding a little more water if the veg begins to stick.</instruction>
+  <instruction id="1">Pour in the vegetable stock and bring to the boil, then turn the heat down and simmer for 20 mins further, until the potatoes are falling apart and the celery is soft. Use a stick blender to purée the soup, then pour in the milk and blitz again. Season to taste. Serve with crusty bread.</instruction>
+ </listInstructions>
+</recipe>

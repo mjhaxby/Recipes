@@ -1,0 +1,13 @@
+.recipeListItem{
+}
+
+.edit{ /* display: none set by 'hidden' class in style.css */
+  margin-right: 5px;
+  transition: all 500ms ease-out;
+}
+
+.editBalance{
+  display: none;
+  visibility: hidden;
+  margin-left: 5px;
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+ <name>Tomato Tartlets</name>
+ <subname></subname>
+ <servings>4</servings>
+ <prepTime icon="prep.png">00:10</prepTime>
+ <cookTime icon="oven.png">00:30</cookTime>
+ <restTime></restTime>
+ <coolTime></coolTime>
+ <notes>Serve with a rocket and green lentil salad.</notes>
+ <attribution></attribution>
+ <listIngredients>
+  <ingredient_item id="0">
+   <quantity>2</quantity>
+   <unit>tb</unit>
+   <ingredient>olive oil</ingredient>
+  </ingredient_item>
+  <ingredient_item id="1">
+   <quantity>375</quantity>
+   <unit>g</unit>
+   <ingredient>cherry tomatoes</ingredient>
+  </ingredient_item>
+  <ingredient_item id="2">
+   <quantity>1</quantity>
+   <unit></unit>
+   <ingredient>onion</ingredient>
+  </ingredient_item>
+  <ingredient_item id="3">
+   <quantity>2</quantity>
+   <unit>garlic</unit>
+   <ingredient>gloves</ingredient>
+  </ingredient_item>
+  <ingredient_item id="4">
+   <quantity>3</quantity>
+   <unit>tbsp</unit>
+   <ingredient>sundried tomato purée</ingredient>
+  </ingredient_item>
+  <ingredient_item id="5">
+   <quantity>320</quantity>
+   <unit>g</unit>
+   <ingredient>puff pastry</ingredient>
+  </ingredient_item>
+  <ingredient_item id="6">
+   <quantity>1</quantity>
+   <unit>tsp</unit>
+   <ingredient>vegan margarine (or half as much coconut oil)</ingredient>
+  </ingredient_item>
+  <ingredient_item id="7">
+   <quantity>1 </quantity>
+   <unit>tsp</unit>
+   <ingredient>soy milk</ingredient>
+  </ingredient_item>
+  <ingredient_item id="8">
+   <quantity>0.5</quantity>
+   <unit>tsp</unit>
+   <ingredient>syrup (maple or golden)</ingredient>
+  </ingredient_item>
+  <ingredient_item id="9">
+   <quantity>150 </quantity>
+   <unit>g</unit>
+   <ingredient>silken tofu</ingredient>
+  </ingredient_item>
+  <ingredient_item id="10">
+   <quantity>2 </quantity>
+   <unit>tb</unit>
+   <ingredient>pesto</ingredient>
+  </ingredient_item>
+ </listIngredients>
+ <listInstructions>
+  <instruction id="0">Pre-heat the oven to 180°C.</instruction>
+  <instruction id="1">Cut onion and fry with the olive oil in a pan on a medium heat for a few minutes, or as long as it takes to start going translucent.</instruction>
+  <instruction id="2">Slice the tomatoes in half and then add to the onion. Crush the garlic and mix in as well. Let it cook for a couple of minutes then add the tomato purée. Cook for another few minutes, seasoning to taste. Leave to cool.</instruction>
+  <instruction id="3">Make the pastry wash by mixing the margarine, soy milk and syrup. </instruction>
+  <instruction id="4">Roll out the puff pastry and cut into squares (two per person is usually ideal). Score a square inside each one to give it a border. Brush the wash onto these borders.</instruction>
+  <instruction id="5">Place the cooked tomato mixture into the centre of each pastry square. Put in the oven for around 10-20 minutes, until the edges of the pastry have puffed up and are golden.</instruction>
+  <instruction id="6">While it's cooking, blend the silken tofu with the pesto to make a pesto cream.</instruction>
+  <instruction id="7">Serve the pastries alongside the creamy tofu and a salad (suggested: rocket and green lentil)</instruction>
+ </listInstructions>
+</recipe>

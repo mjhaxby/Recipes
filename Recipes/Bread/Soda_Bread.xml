@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+ <name>Soda Bread</name>
+ <subname></subname>
+ <servings>6</servings>
+ <prepTime icon="mixer.png">00:10</prepTime>
+ <cookTime icon="oven.png">00:30</cookTime>
+ <restTime></restTime>
+ <coolTime></coolTime>
+ <notes>Try this easy soda bread recipe for when you want bread in a hurry – it's ready in less than an hour with no kneading, proving (or yeast). This makes a small loaf, but you can easily double the recipe and make two.</notes>
+ <attribution>Recipe adapted from bbc.co.uk/food/recipes/irishsodabread_67445</attribution>
+ <listIngredients>
+  <ingredient_item id="0">
+   <quantity>170</quantity>
+   <unit>g</unit>
+   <ingredient>wholemeal flour</ingredient>
+  </ingredient_item>
+  <ingredient_item id="1">
+   <quantity>170</quantity>
+   <unit>g</unit>
+   <ingredient>plain flour, plus extra for dusting</ingredient>
+  </ingredient_item>
+  <ingredient_item id="2">
+   <quantity>0.5</quantity>
+   <unit>tsp</unit>
+   <ingredient>salt</ingredient>
+  </ingredient_item>
+  <ingredient_item id="3">
+   <quantity>0.5</quantity>
+   <unit>tsp</unit>
+   <ingredient>bicarbonate of soda</ingredient>
+  </ingredient_item>
+  <ingredient_item id="4">
+   <quantity>290</quantity>
+   <unit>ml</unit>
+   <ingredient>soy milk</ingredient>
+  </ingredient_item>
+  <ingredient_item id="5">
+   <quantity>20</quantity>
+   <unit>ml</unit>
+   <ingredient>lemon juice (or apple cider vinegar)</ingredient>
+  </ingredient_item>
+ </listIngredients>
+ <listInstructions>
+  <instruction id="0">Preheat the oven to 200C/180C Fan/Gas 6.</instruction>
+  <instruction id="1">Whisk together the lemon juice and soy milk.</instruction>
+  <instruction id="2">Tip the flours, salt and bicarbonate of soda into a large bowl and stir. Make a well in the centre and pour in the milk mixture, mixing quickly with a large fork to form a soft dough. (Depending upon the absorbency of the flour, you may need to add a little milk if the dough seems too stiff but it should not be too wet or sticky.)</instruction>
+  <instruction id="3">Turn onto a lightly floured surface and knead briefly. Form into a round and flatten the dough slightly before placing on a lightly floured baking sheet.</instruction>
+  <instruction id="4">Cut a cross on the top and bake for about 30 minutes or until the loaf sounds hollow when tapped. Cool on a wire rack.</instruction>
+ </listInstructions>
+</recipe>

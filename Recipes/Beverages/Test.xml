@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+ <name>Test</name>
+ <subname></subname>
+ <servings>1</servings>
+ <prepTime icon="prep.png"></prepTime>
+ <cookTime icon="cook.png"></cookTime>
+ <restTime></restTime>
+ <coolTime></coolTime>
+ <notes></notes>
+ <attribution></attribution>
+ <listIngredients>
+  <ingredient_item id="0">
+   <quantity>1</quantity>
+   <unit></unit>
+   <ingredient>potato</ingredient>
+  </ingredient_item>
+ </listIngredients>
+ <listInstructions>
+  <instruction id="0">Drink the potato</instruction>
+ </listInstructions>
+</recipe>

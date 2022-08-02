@@ -1,0 +1,374 @@
+:root {
+  --font-size:19px; /* default font size */
+}
+
+Label{
+  display: none;
+}
+
+input{
+  background: transparent;
+  border: 0 none;
+  font-size: var(--font-size);
+  color: var(--text-color);
+  padding: 1px;
+}
+
+input[disabled], textarea[disabled]{
+  color: var(--text-color); /* makes disabled input look the same as normal */
+  -webkit-text-fill-color: var(--text-color); /* for safari */
+  opacity: 1; /* makes disabled input look the same as normal */
+}
+
+input:focus {
+  outline: none;
+}
+
+textarea{
+  background: transparent;
+  border: 0 none;
+  font-size: var(--font-size);
+  color: var(--text-color);
+  resize: none;
+  padding: 1px;
+}
+
+textarea:focus {
+  outline: none;
+}
+
+ul {
+  margin-top: 0;
+}
+
+ol {
+  counter-reset: item;
+  list-style-type: none;
+  font-size: var(--font-size);
+  line-height: calc(var(--font-size) + 3px);
+  padding-left: 10px;
+  padding-right: 40px;
+}
+
+ol li{
+  text-indent: -1.6em;
+  padding-left: 1.6em;
+  margin-bottom: 0.3em;
+}
+
+ol li::before {
+  content: counter(item) " ";
+  counter-increment: item;
+  font-weight: 500;
+  width: 1em;
+  text-align: right;
+  margin-right: 0.6em;
+  display: inline-block;
+}
+
+select {
+  font-family: Roboto;
+  color: var(--text-color);
+  padding: 5px;
+  font-size: 16px;
+  /*border: 1px solid var(--text-color-shade);*/
+  border: transparent;
+  height: 34px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+select:focus{
+  outline: none;
+}
+
+.ui-timepicker-standard a {
+  font-size: 1em;
+  font-family: "Roboto";
+  padding: .1em;
+}
+
+.timepicker, .faketimepicker{
+  width: 3em;
+  text-align: center;
+  font-weight: 400;
+}
+
+.i_bullet{
+  vertical-align: top;
+}
+
+.i_quantity, .i_alt_quantity{
+  width: 1ch; /* 1 character in the number 1 */
+  margin: auto;
+  text-align: right;
+  vertical-align: top;
+  padding-left: 0px;
+}
+
+.i_unit, .i_alt_unit{
+  width: 3ch; /* 4 characters in the word unit, but 4 is slightly too long */
+  margin: auto;
+  vertical-align: top;
+  padding-right: 0px;
+}
+
+.i_alternative{
+  display: none;
+}
+
+.i_ingredient{
+  width: auto;
+  max-width: 70%;
+  margin: auto;
+  text-align: left;
+  vertical-align: top;
+}
+
+.i_remove{
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  margin-top: 4px;
+}
+
+.invisible{
+  display: none;
+}
+
+.ingredient_input{
+  margin: 2px;
+}
+
+.icon, .changeable_icon_container{
+  width: 40px;
+  height: 40px;
+  vertical-align: middle;
+}
+
+.changeable_icon_container{
+  display: inline-grid; /* to be able to position images on top of each other */
+  margin: 0;
+}
+
+.changeable{
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.extra_info{
+  vertical-align: middle;
+}
+
+.bullet, .inner-bullet{
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+
+.bullet{
+    position: relative;
+    width: 16px;
+    height: 16px;
+    z-index: 2;
+    /*border: 2px solid #000;*/
+    background-color: var(--text-color);
+}
+
+.inner-bullet{
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  width: 1px;
+  height: 1px;
+  z-index: 3;
+  background-color: var(--bg-color);
+}
+
+.bullet:hover .inner-bullet{
+  width: 14px;
+  height: 14px;
+  left: 1px;
+  top: 1px;
+  -webkit-transition: 250ms ease-out;
+  -moz-transition: 250ms ease-out;
+  -o-transition: 250ms ease-out;
+  transition: 250ms ease-out;
+}
+
+.X-left {
+    -webkit-transform: rotate(225deg);
+    -moz-transform: rotate(225deg);
+    transform: rotate(225deg);
+    left: 2px;
+}
+.X-right {
+    -webkit-transform: rotate(-225deg);
+    -moz-transform: rotate(-225deg);
+    transform: rotate(-225deg);
+    right: 2px;
+}
+
+.X-left,
+.X-right {
+    content: '';
+    position: absolute;
+    width: 12px;
+    height: 2px;
+    background-color: var(--text-color);
+    border-radius: 0;
+    top: 7px;
+    z-index: 4;
+}
+
+#name_input{
+  width: 100%;
+  font-size: 2em;
+  font-weight: bolder;
+  margin: 0;
+}
+
+#subname_input{
+  width: 100%;
+  font-size: 1.2em;
+  margin: 0;
+}
+
+#ingredients_info_container{
+  margin-top: 1em;
+  width:100%;
+  font-size: var(--font-size);
+}
+
+#extra_info_container{
+  float: right;
+  width: 30%;
+  text-align: right;
+}
+
+#ingredientsList_container{
+  float: left;
+  width:68%;
+  text-align: center;
+}
+
+#notes_container{
+  width: 100%;
+  clear: both;
+}
+
+#attribution_container{
+  width: 100%;
+  clear: both;
+}
+
+#attribution{
+  text-align: center;
+}
+
+#ingredientsList{
+  margin: auto;
+  text-align: left;
+}
+
+/* Don't use em for font-size or line height with intrusctions or it can throw off the line count script */
+
+#instructions_container{
+  width: 100%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  display: inline-block;
+  font-size: var(--font-size); /*  Don't use em */
+}
+
+#instructions_input{
+  width: 94%;
+  min-height: 200px;
+  font-size: var(--font-size);
+  line-height: calc(var(--font-size) + 5px);  /* Line height MUST be same as font height for line counting to work */
+}
+
+#instructions_numbers{
+  width: 5%;
+  float: left;
+  text-align: center;
+  font-size: var(--font-size);
+  line-height: calc(var(--font-size) + 5px);
+  height:100%;
+  min-height: 200px;
+  font-weight: 500;
+}
+
+#add_ingredient{
+  width: 45%;
+  margin: auto;
+}
+
+#import_ingredients{
+  width: 45%;
+  margin: auto;
+}
+
+#servings_input{
+  width: 3em;
+  text-align: center;
+}
+
+#notes_input{
+  width: 90%;
+  max-width: 90%;
+  margin-top: 1em;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#attribution_input{
+  width: 90%;
+  max-width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+}
+
+#save_recipe_container{
+  width:100%;
+  text-align: center;
+}
+
+#save_recipe{
+  width: 95%;
+  margin: auto;
+  font-size: 2em;
+}
+
+#dir_input_container{
+  float: right;
+}
+
+#remove_ingredient_0 .inner-bullet{
+  display: none;
+  cursor: default;
+}
+
+#remove_ingredient_0 .bullet{
+  cursor: default;
+}
+
+#totaltime, #totaltime_input{
+  text-decoration: overline underline;
+  text-decoration-color: var(--bg-color-shade);
+}
+
+#totalTime_viewLabel{
+font-weight: 400;
+font-variant: small-caps;
+}
+
+#servings_adjust_plus, #servings_adjust_minus{
+  display: inline-block;
+  color: var(--text-color-shade);
+  margin: 3px;
+  cursor: pointer;
+  font-size: var(--font-size);
+}

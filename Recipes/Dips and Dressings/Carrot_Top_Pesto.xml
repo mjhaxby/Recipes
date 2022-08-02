@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+ <name>Carrot Top Pesto</name>
+ <subname>Carrot tops are full of flavor and nutrition, so make this quick and delicious carrot-top pesto and serve with soups, roasted veggies, salads, or simply spread on toast!</subname>
+ <servings>4</servings>
+ <prepTime icon="blender.png">00:05</prepTime>
+ <cookTime icon="cook.png"></cookTime>
+ <restTime></restTime>
+ <coolTime></coolTime>
+ <notes>Stays good in refrigerator for 2-3 days.&#13;
+&#13;
+The stems at the end were very hard so I keep them for stock and use only the soft part of the stems for the pesto recipe.</notes>
+ <attribution>https://www.myweekendkitchen.in/carrot-top-pesto-carrot-leaves-recipe/</attribution>
+ <listIngredients>
+  <ingredient_item id="0">
+   <quantity>1</quantity>
+   <unit>cup</unit>
+   <ingredient>carrot leaves</ingredient>
+  </ingredient_item>
+  <ingredient_item id="1">
+   <quantity>1</quantity>
+   <unit>clove</unit>
+   <ingredient>garlic</ingredient>
+  </ingredient_item>
+  <ingredient_item id="2">
+   <quantity>0.25</quantity>
+   <unit>cup</unit>
+   <ingredient>pine nuts</ingredient>
+  </ingredient_item>
+  <ingredient_item id="3">
+   <quantity>2</quantity>
+   <unit>tbsp</unit>
+   <ingredient>olive oil extra virgin</ingredient>
+  </ingredient_item>
+  <ingredient_item id="4">
+   <quantity>1</quantity>
+   <unit>tsp</unit>
+   <ingredient>lemon juice</ingredient>
+  </ingredient_item>
+  <ingredient_item id="5">
+   <quantity>1</quantity>
+   <unit>tbsp</unit>
+   <ingredient>nutritional yeast optional</ingredient>
+  </ingredient_item>
+  <ingredient_item id="6">
+   <quantity></quantity>
+   <unit></unit>
+   <ingredient>Salt to taste</ingredient>
+  </ingredient_item>
+  <ingredient_item id="7">
+   <quantity></quantity>
+   <unit></unit>
+   <ingredient>Black pepper to taste</ingredient>
+  </ingredient_item>
+ </listIngredients>
+ <listInstructions>
+  <instruction id="0">Remove the carrot leaves from the tough stem. Throughly wash the leaves under running water.</instruction>
+  <instruction id="1">Combine all the ingredients in a food processor or blender and blend until smooth. Add more olive oil if required.</instruction>
+  <instruction id="2">Check the seasoning and transfer to a glass jar. </instruction>
+ </listInstructions>
+</recipe>

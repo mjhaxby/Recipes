@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+ <name>Sablés salés</name>
+ <subname>A savoury version of the sablé spritz</subname>
+ <servings>15</servings>
+ <prepTime icon="mixer.png">00:15</prepTime>
+ <cookTime icon="oven.png">00:20</cookTime>
+ <restTime></restTime>
+ <coolTime>00:15</coolTime>
+ <notes>You will need a piping bag or tool. If you are using De Guyer's &quot;Le Tube&quot; with a biscuit attachment, set it to 2cl output.</notes>
+ <attribution>Liberally adapted from the sweet version.</attribution>
+ <listIngredients>
+  <ingredient_item id="0">
+   <quantity>125</quantity>
+   <unit>g</unit>
+   <ingredient>margarine, at least 70% fat</ingredient>
+  </ingredient_item>
+  <ingredient_item id="1">
+   <quantity>30</quantity>
+   <unit>g</unit>
+   <ingredient>yeast flakes</ingredient>
+  </ingredient_item>
+  <ingredient_item id="2">
+   <quantity>20</quantity>
+   <unit>ml</unit>
+   <ingredient>soy, oat or almond milk</ingredient>
+  </ingredient_item>
+  <ingredient_item id="3">
+   <quantity>120</quantity>
+   <unit>g</unit>
+   <ingredient>flour (T45)</ingredient>
+  </ingredient_item>
+  <ingredient_item id="4">
+   <quantity>30</quantity>
+   <unit>g</unit>
+   <ingredient>cornstarch</ingredient>
+  </ingredient_item>
+  <ingredient_item id="5">
+   <quantity>1</quantity>
+   <unit>pinch</unit>
+   <ingredient>salt</ingredient>
+  </ingredient_item>
+ </listIngredients>
+ <listInstructions>
+  <instruction id="0">Warm the oven to 180°C. Alternatively, you can do this latter, leaving your biscuits for a bit longer in the fridge.</instruction>
+  <instruction id="1">Whip together the margarine and half the yeast flakes until creamy.</instruction>
+  <instruction id="2">Add the milk little by little. Ideally it should form a consistent mixture, but it doesn't matter too much if not.</instruction>
+  <instruction id="3">In another bowl, mix the rest of the yeast flakes, flour, cornstarch and salt.</instruction>
+  <instruction id="4">Fold together the two mixtures, avoiding mixing too much so as to not develop the gluten.</instruction>
+  <instruction id="5">Use a piping bag with a fluted nozzle to create the iconic spritz zig-zag shape directly onto a baking sheet covered with grease proof paper or a silicon sheet. Alternatively, you can use a special biscuit press to stamp out your biscuits. There are lots of options here.</instruction>
+  <instruction id="6">Put the biscuits in the fridge for at least 5 minutes, preferably 15 minutes, probably no more than 30 minutes. This will help maintain their shape.</instruction>
+  <instruction id="7">Transfer the biscuits to the oven and bake for 15-20 minutes.</instruction>
+ </listInstructions>
+</recipe>

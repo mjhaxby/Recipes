@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+ <name>Millionnaire Shortbread</name>
+ <subname></subname>
+ <servings>6</servings>
+ <prepTime icon="mixer.png">01:00</prepTime>
+ <cookTime icon="oven.png">01:00</cookTime>
+ <restTime>01:00</restTime>
+ <coolTime>01:00</coolTime>
+ <notes>Though a fairly simple recipe for how fancy it looks, there is a lot of waiting time involved. To make sure everything is well set before demoulding, it's best to leave in the fridge over night.&#13;
+&#13;
+This is for a 10x25cm loaf tin. You could quite easily use two loaf tins to double the size, but using a bigger container can make it more difficult to get out. Silicon loaf moulds work very well for getting the shortbreads out without any grease. Using metal loaf tins will require baking paper.&#13;
+&#13;
+Don’t use too dark sugar for the caramel. It will make it difficult to tell when it’s done and you risk overdoing it.&#13;
+&#13;
+Optional extra: Use one third white chocolate and swirl through the topping.&#13;
+&#13;
+TEMPORARY NOTE: I've adjusted the caramel quantities. Before, it was 25g butter, 25g golden sugar, 400ml coconut milk, 100g caster sugar. The new version is closer to the quantities of the original caramel recipe (taking into account how much the coconut milk reduces actually by). Much higher ration of fat and sugar, hopefully will yield a better caramel.</notes>
+ <attribution>Adapted from https://www.janespatisserie.com/2019/08/03/vegan-millionaires-shortbread/ and https://www.karissasvegankitchen.com/vegan-sweetened-condensed-milk/</attribution>
+ <listIngredients>
+  <ingredient_item id="0">
+   <quantity></quantity>
+   <unit></unit>
+   <ingredient>**Shortbread Base**</ingredient>
+  </ingredient_item>
+  <ingredient_item id="1">
+   <quantity>100</quantity>
+   <unit></unit>
+   <ingredient>dairy free butter (stork block)</ingredient>
+  </ingredient_item>
+  <ingredient_item id="2">
+   <quantity>50</quantity>
+   <unit>g</unit>
+   <ingredient>caster sugar</ingredient>
+  </ingredient_item>
+  <ingredient_item id="3">
+   <quantity>137</quantity>
+   <unit>g</unit>
+   <ingredient>plain flour</ingredient>
+  </ingredient_item>
+  <ingredient_item id="4">
+   <quantity>0.25</quantity>
+   <unit>tsp</unit>
+   <ingredient>salt</ingredient>
+  </ingredient_item>
+  <ingredient_item id="5">
+   <quantity></quantity>
+   <unit></unit>
+   <ingredient>**Caramel Filling**</ingredient>
+  </ingredient_item>
+  <ingredient_item id="6">
+   <quantity>25</quantity>
+   <unit>g</unit>
+   <ingredient>dairy-free butter (stork block)</ingredient>
+  </ingredient_item>
+  <ingredient_item id="7">
+   <quantity>25</quantity>
+   <unit>g</unit>
+   <ingredient>golden sugar (not brown!)</ingredient>
+  </ingredient_item>
+  <ingredient_item id="8">
+   <quantity>200    <alt>0.5</alt>
+   </quantity>
+   <unit>ml    <alt>can</alt>
+   </unit>
+   <ingredient>coconut milk (full-fat)</ingredient>
+  </ingredient_item>
+  <ingredient_item id="9">
+   <quantity>50</quantity>
+   <unit>g</unit>
+   <ingredient>caster sugar</ingredient>
+  </ingredient_item>
+  <ingredient_item id="10">
+   <quantity>1</quantity>
+   <unit>pinch</unit>
+   <ingredient>salt</ingredient>
+  </ingredient_item>
+  <ingredient_item id="11">
+   <quantity></quantity>
+   <unit></unit>
+   <ingredient>**Decoration**</ingredient>
+  </ingredient_item>
+  <ingredient_item id="12">
+   <quantity>100</quantity>
+   <unit>g</unit>
+   <ingredient>dark chocolate</ingredient>
+  </ingredient_item>
+  <ingredient_item id="13">
+   <quantity>1</quantity>
+   <unit>pinch</unit>
+   <ingredient>salt</ingredient>
+  </ingredient_item>
+ </listIngredients>
+ <listInstructions>
+  <instruction id="0">First we need to make a condensed milk for the caramel. In a pot on medium heat, bring the coconut milk and the white sugar to a boil. Keep a close eye on it so it doesn't boil over.</instruction>
+  <instruction id="1">Reduce heat to medium-low and simmer for 30-45 minutes (until liquid is reduced by about half, quite possible more.)</instruction>
+  <instruction id="2">Stir or whisk every 5 minutes or so.</instruction>
+  <instruction id="3">Remove from heat and let cool (it will get even thicker as it cools.) This can be stored in the fridge for up to 10 days, so you can do this part in advance, or make extra for another recipe. If you use it straight away, you can keep it in the same saucepan. You want about 225g of condensed milk. If you end up with slightly less, just reduce the other caramel ingredients and have a slightly thinner layer of caramel.</instruction>
+  <instruction id="4">Preheat your oven to 180°C (160°C Fan). If you're using a metal tin, line it with parchment paper.</instruction>
+  <instruction id="5">Cream together your dairy free butter and sugar until light and fluffy.</instruction>
+  <instruction id="6">Add in the flour and salt and beat again till a dough is formed.</instruction>
+  <instruction id="7">Press the dough into the bottom of the tin, and bake in the oven for 25-30 minutes, or until golden on top.</instruction>
+  <instruction id="8">One baked, leave to cool on the side, but still in the tin!</instruction>
+  <instruction id="9">Make sure your coconut condensed milk has thickened. It should pour very slowly. If it is too runny, you should simmer it for longer. In a large heavy based saucepan (you can use the one from earlier if you never took it out the saucepan), add your dairy free butter, golden sugar and the coconut condensed milk.</instruction>
+  <instruction id="10">Melt on a low-medium heat until everything is melted and dissolved.</instruction>
+  <instruction id="11">Once melted, turn the heat up slightly to a medium heat and boil the mixture for 7-8 minutes, or until the mixture has started to turn more golden and thickened. Stir it constantly with a spatula so the bottom of the pan is scraped properly. Add the salt.</instruction>
+  <instruction id="12">Pour the caramel onto the shortbread and leave it to set in the fridge for an hour or so.</instruction>
+  <instruction id="13">Once set, melt your chocolate carefully (using a bain marie or microwave) and pour over. Melt any  white chocolate if using, and swirl through using a cake skewer or fork.</instruction>
+  <instruction id="14">Leave the bake to set in the fridge until solid, and then cut up and enjoy!</instruction>
+ </listInstructions>
+</recipe>
